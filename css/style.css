@@ -1084,6 +1084,10 @@ section.home.light .social-icons li a:hover {
   -o-transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
 }
+.portfolio-wrapper .disponible{
+  height: 30px;
+  margin-top: -15px;
+}
 .portfolio-item .details .more-button {
   color: #FFF;
   font-size: 20px;
@@ -2209,7 +2213,7 @@ body.dark .blog-page-section .blog-single {
   margin-right: 1.5rem;
 }
 .social-icons li a {
-  font-size: 21px;
+  font-size: 50px;
 }
 .social-icons.light li a:hover {
   color: #FFD15C;

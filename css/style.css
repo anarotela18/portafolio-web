@@ -1039,6 +1039,11 @@ section.home.light .social-icons li a:hover {
 .portfolio-item {
   position: relative;
   overflow: hidden;
+  height: 200px;
+}
+.portfolio-item img{
+  height: 200px;
+  object-fit: contain;
 }
 .portfolio-item .thumb {
   overflow: hidden;
